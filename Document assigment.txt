@@ -1,0 +1,23 @@
+//
+Framework: 
+Creating Maven project: Maven is basically build tool .
+
+
+Selenium is a popular open-source tool for testing web applications. It allows testers to write automated tests in various programming languages and run them on different browsers and operating systems.
+
+
+Language : Java language
+
+
+Folder structure:
+src/test/java:  --> java code for testing
+pom.xml  ---> selenium webdriver jar files.
+                               Some things or we need third party.
+                                All  repository will get in MVN  repository maintain in remote
+
+
+
+
+
+
+
